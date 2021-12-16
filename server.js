@@ -23,6 +23,6 @@ db.connect(err => {
     console.log('Database connection established!');
 
     app.listen(PORT, () => {
-        console.log(`Server running on port ${PORT}!`);
+        console.log(`http://localhost:${PORT}`);
     });
 });
