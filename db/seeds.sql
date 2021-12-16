@@ -9,7 +9,7 @@ VALUES
 INSERT INTO roles (title, salary, department_id)
 VALUES
 ('Salesperson', 80000.00, 1),
-('Sales Manager', 120000.00, 1)
+('Sales Manager', 120000.00, 1),
 ('Account Manager', 100000.00, 2),
 ('Accountant', 90000.00, 2),
 ('Recruiter', 50000.00, 3),
@@ -35,4 +35,4 @@ VALUES
 ('Master', 'Chief', 9, NULL),
 ('Pro', 'Grammer', 10, 14),
 ('Stinky', 'Cheese', 10, 14),
-('Lady', 'GaGa', 11, NULL),
+('Lady', 'GaGa', 11, NULL);
